@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mohammad Raihan Shaikh and I'm a Automation QA + Node JS Developer </h2>
+<h2 align="left">Hi 👋! My name is Muhammad Raihan Shaikh and I'm a Automation QA + Node JS Developer </h2>
 
 ###
 
